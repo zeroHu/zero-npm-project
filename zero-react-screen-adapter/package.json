@@ -1,0 +1,26 @@
+{
+  "name": "zero-react-screen-adapter",
+  "version": "1.0.0",
+  "description": "react screen adapter",
+  "main": "dist/zero-react-screen-adapter.umd.js",
+  "module": "dist/zero-react-screen-adapter.es.js", 
+  "scripts": {
+    "build": "vite build"
+  },
+  "keywords": [
+    "react",
+    "adapter"
+  ],
+  "files": [
+    "dist",
+    "README.md"
+  ],
+  "peerDependencies": {
+    "react": "^18.0.0"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@vitejs/plugin-react": "^4.3.1"
+  }
+}

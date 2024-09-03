@@ -1,6 +1,6 @@
 ## intro
 
 ```
-npm install zero-vue-screen-adapter
+npm install zero-react-screen-adapter
 
 ```
